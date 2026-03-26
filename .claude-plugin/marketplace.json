@@ -1,0 +1,27 @@
+{
+  "name": "ak-marketplace",
+  "owner": {
+    "name": "Artifact Keeper",
+    "email": "hello@artifactkeeper.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for the Artifact Keeper team",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ak-audit-agent",
+      "source": {
+        "source": "github",
+        "repo": "artifact-keeper/artifact-keeper-audit-agent"
+      },
+      "description": "Multi-lens audit team with 8 specialist reviewers for security, code quality, infrastructure, DevOps, compliance, accessibility, performance, and documentation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Artifact Keeper"
+      },
+      "keywords": ["audit", "security", "code-quality", "devops"],
+      "category": "quality"
+    }
+  ]
+}
