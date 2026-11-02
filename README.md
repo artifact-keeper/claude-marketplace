@@ -1,5 +1,12 @@
 # Artifact Keeper Claude Marketplace
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artifact-keeper/.github/main/brand/logo-horizontal-dark.png">
+    <img alt="Artifact Keeper" src="https://raw.githubusercontent.com/artifact-keeper/.github/main/brand/logo-horizontal-light.png" width="360">
+  </picture>
+</p>
+
 Claude Code plugin marketplace for the Artifact Keeper team.
 
 ## Available Plugins
